@@ -96,7 +96,7 @@
         count: "3 باقات متاحة",
         name: "Call of Duty : Black Ops 7 / Warzone",
         desc: "ايم بوت، ESP، سبوفر Ranked وتريغر بوت. لا يظهر في البث 100%.",
-        price: "3499 AED", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "5329 AED", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "تصفّح باقات Warzone ←", href: "https://hightgame.com/cheat-warzone.html",
         glow: "59,130,246"
       },
@@ -105,7 +105,7 @@
         count: "3 باقات متاحة",
         name: "ARC Raiders",
         desc: "ايم بوت، ESP للاعبين والروبوتات، ESP للغنائم ونقاط الاستخراج، تريغر بوت وسبوفر HWID.",
-        price: "3499 AED", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "5329 AED", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "تصفّح باقات ARC Raiders ←", href: "https://hightgame.com/cheat-arc-rider.html",
         glow: "245,158,11"
       },
@@ -114,7 +114,7 @@
         count: "باقتان متاحتان",
         name: "Fortnite",
         desc: "ايم بوت قابل للتخصيص، ESP للاعبين، ESP للغنائم والصناديق، سبوفر HWID مع كلينر.",
-        price: "3499 AED", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "5329 AED", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "تصفّح باقات Fortnite ←", href: "https://hightgame.com/cheat-fortnite.html",
         glow: "139,92,246"
       },
@@ -123,7 +123,7 @@
         count: "باقة واحدة متاحة",
         name: "Valorant",
         desc: "ايم بوت، ESP، تريغر بوت وسبوفر HWID. غير قابل للكشف ولا يظهر في البث 100%.",
-        price: "3499 AED", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "5329 AED", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "تصفّح باقة Valorant ←", href: "https://hightgame.com/cheat-valorant.html",
         glow: "255,70,85"
       },
@@ -132,7 +132,7 @@
         count: "باقة واحدة متاحة",
         name: "Escape from Tarkov",
         desc: "ايم بوت، ESP للاعبين والسكاف، ESP للغنائم ونقاط الاستخراج، سبوفر HWID. جاهز للتشغيل فوراً.",
-        price: "3499 AED", consoles: "🖥️ PC",
+        price: "5329 AED", consoles: "🖥️ PC",
         cta: "تصفّح باقة Tarkov ←", href: "https://hightgame.com/cheat-tarkov.html",
         glow: "166,154,70"
       }
